@@ -7,6 +7,8 @@ The focus is on **optimizing the data loading pipeline** (multi-threaded loading
 
 ## Dataset
 
+Source: https://www.kaggle.com/datasets/vencerlanz09/alzheimers-mri-brain-scan-images-augmented
+
 The project uses a 4-class Alzheimer MRI image dataset with the following structure:
 
 dataset/
