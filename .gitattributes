@@ -1,0 +1,11 @@
+# Ignore rendered HTML / docs in language stats
+*.html linguist-generated=true
+docs/** linguist-generated=true
+reports/** linguist-generated=true
+
+# Ensure code files are counted
+*.py linguist-detectable=true
+*.sh linguist-detectable=true
+*.slurm linguist-detectable=true
+
+# *.py linguist-language=Python
